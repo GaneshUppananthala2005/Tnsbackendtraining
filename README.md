@@ -46,7 +46,9 @@ I sincerely thank TNS India Foundation for organizing this Backend Training Prog
 
 ## Author
 Ganesh Uppananthala
+
 🎓 Trainee at TNS India Foundation | Aspiring Backend Developer  Learning Java, Spring Boot, and Backend Frameworks
+
 📧 Email: uganeshuppananthala@gmail.com
 
 🔗 GitHub: https://github.com/GaneshUppananthala2005
